@@ -33,3 +33,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+
+## Demo and Production hosting
+Alle Demo and Production is hosted @ Netlify
