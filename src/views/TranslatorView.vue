@@ -16,4 +16,3 @@ import BestaetigeEingabeKnopf from "../components/BestaetigeEingabeKnopf.vue";
   <BestaetigeEingabeKnopf />
 </template>
 
-<style scoped></style>

@@ -29,10 +29,9 @@ export default {
       this.$router.push("/translator");
     },
     async getSprachen(){
-      var response = await (await fetch(API_URL)).json();
+      let response = await (await fetch(API_URL)).json();
       this.sprachen = Object.values(response);
     }
   },
 };
 </script>
-<style scoped></style>
